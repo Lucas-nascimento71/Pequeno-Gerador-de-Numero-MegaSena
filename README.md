@@ -14,3 +14,6 @@ Pré-requisitos: Liste as bibliotecas ou ferramentas necessárias para executar 
 
 Contribuições: Fiquem a vontade para usarem, darem dicas e modificarem. Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue ou envie um pull request.
 Agradeço a qualquer pessoa que constribua. Vamos juntos se ajudando e indo atrás de mais conhecimento.
+
+Autor:
+ - Lucas do Nascimento Ferreira de Souza
